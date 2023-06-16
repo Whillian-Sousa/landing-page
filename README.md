@@ -1,2 +1,2 @@
 # landing-page
- Página desenvolvida com instruções do video da Rafa Baççerini
+ Página desenvolvida com instruções do video da Rafa Ballerini
